@@ -1,0 +1,1 @@
+{'clean room': 0, 'Wash yourself you filthy animal': 0, 'Check Calender': 0, 'Review Finances': 0, 'Go for a 30 min walk': 0, 'Hit the Gym': 0, 'Charge your devices': 0, 'Clean your Desk': 0}
